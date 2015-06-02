@@ -8,7 +8,7 @@ No tiene ninguna finalidad práctica, mas que servir de recurso didáctico para 
 GPL-3
 
 ##Autor
-José Antonio Muñoz Jiménez ([jamj2000@gmail.com])
+José Antonio Muñoz Jiménez (jamj2000 AT gmail DOT com)
 
 ## Referencias
 [R Packages (O'Reilly book)](http://r-pkgs.had.co.nz/)
