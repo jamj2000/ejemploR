@@ -1,5 +1,6 @@
 # ejemploR
 Un paquete de ejemplo en R.
+
 Analiza una matriz y muestra información descriptiva de sus columnas.
 
 No tiene ninguna finalidad práctica, mas que servir de recurso didáctico para los programadores de R en lengua castellana.
