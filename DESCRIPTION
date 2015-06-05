@@ -1,0 +1,16 @@
+Package: ejemploR
+Type: Package
+Title: Un paquete de ejemplo en R.
+Version: 1.0
+Date: 2015-06-02
+Author: José Antonio Muñoz Jiménez
+Maintainer: José Antonio Muñoz Jiménez <jamj2000@gmail.com>
+Description: Analiza una matriz y muestra información descriptiva de sus columnas.
+    No tiene ninguna finalidad práctica, mas que servir de recurso
+    didáctico para los programadores de R en lengua castellana.
+Depends:
+    R (>= 3.0.0)
+Suggests:
+    knitr
+License: GPL-3
+
